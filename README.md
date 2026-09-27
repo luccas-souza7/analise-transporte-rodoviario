@@ -79,7 +79,7 @@ Com o denominador corrigido, o custo dela sobe de R$ 4,34 para R$ 6,05 por km ca
 R$ 8,77 do contratado. A vantagem cai de 102% para 44,9%, menos da metade do que a conta pelo km
 rodado indica. Uma decisão de investimento em frota deve partir do valor corrigido.
 
-![Frota e ociosidade: a comparação ingênua (102%) contra a comparação justa (44,9%)](frota_ociosidade.png)
+![Frota e ociosidade: diferença de custo pelo km rodado (102%) e pelo km carregado (44,9%)](frota_ociosidade.png)
 
 ### Quanto custa rodar vazio
 
